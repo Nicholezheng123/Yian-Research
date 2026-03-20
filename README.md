@@ -1,4 +1,3 @@
-# Yian-Research
 # Yian Research
 
 Research repository for projects conducted under Professor Yian Yin, focusing on large-scale data processing, entity resolution, and research analytics.
